@@ -1,0 +1,10 @@
+.build/
+.Rhistory
+.RData
+/jtpa/*.metadata.R
+/jtpa/raw/
+
+/output/*
+!/output/.gitkeep
+/plots/*
+!/plots/.gitkeep
